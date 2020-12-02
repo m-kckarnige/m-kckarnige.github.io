@@ -112,7 +112,7 @@ html {
   -webkit-transition:.2s;
   transition:.2s;
   text-decoration: none;
-  color: #ffffff;
+  color: #b0b0b0;
 }
 
 .link:active {
@@ -125,7 +125,7 @@ html {
   -moz-transition:.2s;
   -webkit-transition:.2s;
   transition:.2s;
-  color: #b0b0b0;
+  color: #ffffff;
   text-decoration: none;
   user-select: none;
 }
